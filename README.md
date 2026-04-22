@@ -13,7 +13,7 @@
 
 ## 🔬 Project Architecture & Data Modeling
 
-### 1. The Clinical Core (`health_dataset.csv`)
+### 1. The Clinical Core :  - <a href ="https://github.com/priyanshu2003719/Health-Dashboard-/blob/main/health_dataset.csv"> (`health_dataset.csv`)</a>
 A robust dataset featuring **2,488 patient records**, tracking critical health markers:
 * **Lifestyle Indicators:** Smoking status (years/frequency) and alcohol consumption levels.
 * **Biometric Data:** Age, Gender, BMI, and Cholesterol levels.
@@ -38,7 +38,7 @@ The intelligence of the dashboard is driven by custom-coded logic designed for c
 
 ---
 
-## 📊 Business Intelligence & Visualization (`Heath Dashboard.pbix`)
+## 📊 Business Intelligence & Visualization : <a href ="https://github.com/priyanshu2003719/Health-Dashboard-/blob/main/Heath%20Dashboard.pbix"> (`Heath Dashboard.pbix`)</a>
 
 The dashboard is engineered to transform raw clinical data into a diagnostic story:
 
