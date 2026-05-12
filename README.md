@@ -187,7 +187,7 @@ This dashboard provides a comprehensive look at how smoking behaviors correlate 
 * Organ Health Visualization: The central focus is an interactive anatomical model. Users can toggle between "Healthy" and "Damaged" views to see the physical impact on major organs (Heart, Kidney, Liver, Lungs).
 * Patient Profile: It tracks a cohort of 155 patients. Key KPIs compare the current selection's average age (57.5) and BMI (29.2) against the overall population average using visual indicators (up/down arrows).
 * Smoking Demographics:
-* Status: Over half of the analyzed group (50.97%) are current smokers.
+    * Status: Over half of the analyzed group (50.97%) are current smokers.
     * Intensity: The line chart reveals that smoking duration (YOS) and daily intake (CPD) peak significantly in the 39–48 and 59–68 age brackets.
 * Clinical Risk Correlation: The stacked bar chart shows that as patients age, the proportion of High Cholesterol and Hypertension Risk increases, particularly starting in the 49–58 age group.
 
