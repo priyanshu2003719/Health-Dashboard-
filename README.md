@@ -179,14 +179,3 @@ Epidemiologists and public health researchers can use this platform as a longitu
 Actuarial and underwriting teams can leverage the patient risk profiling layer — combining BMI deviation, BP risk, cholesterol levels, family history, and lifestyle factors — to build more accurate, data-driven risk segmentation models.
 
 ---
-
-## 👤 Author
-
-**[Your Name]**  
-Data Analyst | Power BI Developer  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) | [Portfolio](https://yourportfolio.com)
-
----
-
-> *"Good data doesn't just describe the world — it changes it. This dashboard was built to put the right health intelligence in front of the right decision-makers, at the right time."*
