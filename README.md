@@ -178,8 +178,6 @@ Epidemiologists and public health researchers can use this platform as a longitu
 ### 📋 Insurance & Health Risk Assessment
 Actuarial and underwriting teams can leverage the patient risk profiling layer — combining BMI deviation, BP risk, cholesterol levels, family history, and lifestyle factors — to build more accurate, data-driven risk segmentation models.
 
----
-Based on the images and data provided, here is an analysis of the two dashboards developed for health risk and disease tracking.
 ------------------------------
 ## 1. Smoking Health Risk Analysis Dashboard
 This dashboard provides a comprehensive look at how smoking behaviors correlate with organ damage and clinical risk factors like BMI and cholesterol.
