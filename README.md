@@ -188,7 +188,7 @@ This dashboard provides a comprehensive look at how smoking behaviors correlate 
 * Patient Profile: It tracks a cohort of 155 patients. Key KPIs compare the current selection's average age (57.5) and BMI (29.2) against the overall population average using visual indicators (up/down arrows).
 * Smoking Demographics:
 * Status: Over half of the analyzed group (50.97%) are current smokers.
-  I)Intensity: The line chart reveals that smoking duration (YOS) and daily intake (CPD) peak significantly in the 39–48 and 59–68 age brackets.
+    * Intensity: The line chart reveals that smoking duration (YOS) and daily intake (CPD) peak significantly in the 39–48 and 59–68 age brackets.
 * Clinical Risk Correlation: The stacked bar chart shows that as patients age, the proportion of High Cholesterol and Hypertension Risk increases, particularly starting in the 49–58 age group.
 
 ------------------------------
@@ -197,10 +197,10 @@ This dashboard tracks global epidemiological trends for STDs, with the current v
 
 * Temporal Trends: The line chart tracks average new cases and deaths from 2015 to a projected 2025. It shows significant volatility, with peaks in cases around 2019 and 2022, followed by a declining trend toward 2025.
 * Geographic Distribution:
-* Regional Prevalence: Africa has the highest prevalence rate by a wide margin, followed by Asia and the Americas.
+   * Regional Prevalence: Africa has the highest prevalence rate by a wide margin, followed by Asia and the Americas.
    * Global Map: The globe highlights specific "hotspots," allowing health officials to see exactly where the disease density is highest (darker shaded regions).
 * Demographic Breakdown:
-I) Gender: The "Incidence Rate by Gender" plot shows that Syphilis affects males and females at nearly identical rates, though the male rate appears slightly higher based on the dot plot.
+   * Gender: The "Incidence Rate by Gender" plot shows that Syphilis affects males and females at nearly identical rates, though the male rate appears slightly higher based on the dot plot.
 * Microscopic Visual: The 3D model on the left provides a visual identification of the bacterium (Treponema pallidum), which is useful for educational contexts.
 
 
